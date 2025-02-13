@@ -1,6 +1,6 @@
 "use client";
 import { doc, getDoc, updateDoc, arrayUnion } from "firebase/firestore";
-import { db } from "@/src/firebase/fierbase";
+import { db } from "@/src/lib/fierbase";
 import { useState, useEffect } from "react";
 
 export default function VoteBtn() {

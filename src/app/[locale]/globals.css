@@ -1,10 +1,9 @@
-
 :root {
   --bg: #ffffff;
   --txt: #171717;
 }
 
-a{
+a {
   cursor: pointer;
   text-decoration: none;
 }
